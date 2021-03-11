@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="21">
+      <Unit0>
+        <Filename Value="pasfetch.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="26" Y="6"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/unix/unixtype.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="37" Y="16"/>
+        <UsageCount Value="9"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/unix/unixutil.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="10" Y="35"/>
+        <UsageCount Value="9"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/unix/aliasctp.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="50" Y="21"/>
+        <UsageCount Value="9"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/unix/ctypes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="9"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/packages/rtl-console/src/unix/crt.pp"/>
+        <UnitName Value="Crt"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/packages/rtl-console/src/inc/crth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="6" Y="47"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/linux/linux.pp"/>
+        <UnitName Value="Linux"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="57" Y="40"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/objpas/sysutils/sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="170"/>
+        <CursorPos X="10" Y="183"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/objpas/sysutils/sysinth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="3" Y="33"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="758"/>
+        <CursorPos X="14" Y="771"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/packages/fv/src/memory.pas"/>
+        <UnitName Value="Memory"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="151"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../fpcupdeluxenew/fpc-noice2/fpcsrc/rtl/linux/ostypes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="17" Y="64"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/packages/fv/src/memory.pas"/>
+        <UnitName Value="Memory"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/packages/a52/src/a52.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="10"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="mdrncrt.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="10"/>
+        <CursorPos X="16" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/rtl/linux/ostypes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="41"/>
+        <CursorPos X="4" Y="59"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/rtl/linux/linux.pp"/>
+        <UnitName Value="Linux"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="18"/>
+        <CursorPos X="5" Y="37"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/rtl/unix/ctypes.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="33"/>
+        <CursorPos X="30" Y="53"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/rtl/objpas/sysutils/datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="139"/>
+        <CursorPos X="10" Y="157"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="../../../fpcupdeluxe/main_ide/fpcsrc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="461"/>
+        <CursorPos X="32" Y="479"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+    </Units>
+    <JumpHistory Count="28" HistoryIndex="27">
+      <Position1>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="20" Column="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="22" Column="36" TopLine="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="30" Column="7" TopLine="5"/>
+      </Position3>
+      <Position4>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="146" Column="100" TopLine="133"/>
+      </Position4>
+      <Position5>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="7" Column="3"/>
+      </Position5>
+      <Position6>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="3" Column="75"/>
+      </Position6>
+      <Position7>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="141" Column="3" TopLine="124"/>
+      </Position7>
+      <Position8>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="136" Column="6" TopLine="124"/>
+      </Position8>
+      <Position9>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="149" Column="32" TopLine="130"/>
+      </Position9>
+      <Position10>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="167" Column="61" TopLine="154"/>
+      </Position10>
+      <Position11>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="169" Column="11" TopLine="156"/>
+      </Position11>
+      <Position12>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="170" Column="81" TopLine="156"/>
+      </Position12>
+      <Position13>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="169" Column="119" TopLine="156"/>
+      </Position13>
+      <Position14>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="116" Column="78" TopLine="93"/>
+      </Position14>
+      <Position15>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="161" Column="46" TopLine="143"/>
+      </Position15>
+      <Position16>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="164" Column="87" TopLine="148"/>
+      </Position16>
+      <Position17>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="168" Column="109"/>
+      </Position17>
+      <Position18>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="99" Column="10" TopLine="79"/>
+      </Position18>
+      <Position19>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="3" Column="58"/>
+      </Position19>
+      <Position20>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="47" Column="3"/>
+      </Position20>
+      <Position21>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="199" Column="17" TopLine="100"/>
+      </Position21>
+      <Position22>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="3" Column="5"/>
+      </Position22>
+      <Position23>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="196" Column="32" TopLine="170"/>
+      </Position23>
+      <Position24>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="105" Column="16"/>
+      </Position24>
+      <Position25>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="138" Column="29" TopLine="112"/>
+      </Position25>
+      <Position26>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="7" Column="3"/>
+      </Position26>
+      <Position27>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="142" Column="37" TopLine="127"/>
+      </Position27>
+      <Position28>
+        <Filename Value="pasfetch.lpr"/>
+        <Caret Line="142" Column="37" TopLine="127"/>
+      </Position28>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
