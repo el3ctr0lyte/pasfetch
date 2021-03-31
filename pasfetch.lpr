@@ -47,6 +47,16 @@ begin
     colors:=mcCMagenta;
   end;
 
+  if LowerCase(ParamStr(1)) = 'yellow' then
+  begin
+    colors:=mccyellow;
+  end;
+
+  if LowerCase(ParamStr(1)) = 'white' then
+  begin
+    colors:=mccwhite;
+  end;
+
   //this was when this still used the crt unit
 
   //if LowerCase(ParamStr(1)) = 'brown' then
@@ -88,16 +98,6 @@ begin
   //begin
   //  colors:=lightmagenta;
   //end;
-
-  if LowerCase(ParamStr(1)) = 'yellow' then
-  begin
-    colors:=mccyellow;
-  end;
-
-  if LowerCase(ParamStr(1)) = 'white' then
-  begin
-    colors:=mccwhite;
-  end;
 
   //Print help prompt
   if (LowerCase(ParamStr(1)) = '-h') or (LowerCase(ParamStr(1)) = '--help') then
