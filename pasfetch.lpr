@@ -6,7 +6,7 @@ program pasfetch;
 ####################
 }
 uses
-    sysutils, linux, baseunix, Classes, StrUtils, DateUtils, mdrncrt;
+    sysutils, linux, baseunix, Classes, StrUtils, DateUtils, linuxcrt;
 var
   infos:UtsName;
   colors:char;
